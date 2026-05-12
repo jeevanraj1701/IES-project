@@ -1,0 +1,14 @@
+Hi ${FNAME} ${LNAME}, <br/>
+<br/>
+
+Welcome to Jeev IT institute, your registration is done
+<br/>
+
+Temporaty PWD : ${TEMP_PWD} <br/>
+
+
+<br/>
+
+<a href="http://localhost:8080/unlock?email=${EMAIL}
+
+<br/>
